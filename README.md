@@ -16,7 +16,7 @@ The website now meets accessibility standards by using semantic HTML elements, a
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/headerscreenshot.jpg)
 
 ## Credits
 
