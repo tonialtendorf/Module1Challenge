@@ -19,7 +19,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](assets/images/headerscreenshot.jpg)
 ![alt text](assets/images/screenshot2.jpg)
 
-
+Link to deployed application: https://tonialtendorf.github.io/Module1Challenge/#social-media-marketing 
 ## Credits
 
 NA
